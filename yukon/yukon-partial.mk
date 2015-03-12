@@ -13,11 +13,10 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
-	bt_addr \
+	addrsetup \
 	hvdcp \
 	irsc_util \
 	netmgrd \
-	mpdecision \
 	qmiproxy \
 	qmuxd \
 	qseecomd \
@@ -25,7 +24,6 @@ PRODUCT_PACKAGES += \
 	sct_service \
 	ta_qmi_service \
 	tad_static \
-	wcnss_addr \
 	wcnss_service \
 	MTP_Bluetooth_cal \
 	MTP_General_cal \
@@ -94,7 +92,6 @@ PRODUCT_PACKAGES += \
 	libmm-abl \
 	libmm-color-convertor \
 	libnetmgr \
-	libqc-opt \
 	libqcci_legacy \
 	libqdi \
 	libqdp \
