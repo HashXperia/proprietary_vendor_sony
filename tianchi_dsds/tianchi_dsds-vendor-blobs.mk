@@ -36,6 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/cmnlib.b01:system/etc/firmware/cmnlib.b01 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/cmnlib.b02:system/etc/firmware/cmnlib.b02 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/cmnlib.b03:system/etc/firmware/cmnlib.b03 \
+    vendor/sony/tianchi_dsds/proprietary/etc/firmware/cmnlib.flist:system/etc/firmware/cmnlib.flist \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/cmnlib.mdt:system/etc/firmware/cmnlib.mdt \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
@@ -68,16 +69,19 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzhdcp.b01:system/etc/firmware/tzhdcp.b01 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzhdcp.b02:system/etc/firmware/tzhdcp.b02 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzhdcp.b03:system/etc/firmware/tzhdcp.b03 \
+    vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzhdcp.flist:system/etc/firmware/tzhdcp.flist \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzhdcp.mdt:system/etc/firmware/tzhdcp.mdt \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzlibasb.b00:system/etc/firmware/tzlibasb.b00 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzlibasb.b01:system/etc/firmware/tzlibasb.b01 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzlibasb.b02:system/etc/firmware/tzlibasb.b02 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzlibasb.b03:system/etc/firmware/tzlibasb.b03 \
+    vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzlibasb.flist:system/etc/firmware/tzlibasb.flist \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzlibasb.mdt:system/etc/firmware/tzlibasb.mdt \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzsuntory.b00:system/etc/firmware/tzsuntory.b00 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzsuntory.b01:system/etc/firmware/tzsuntory.b01 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzsuntory.b02:system/etc/firmware/tzsuntory.b02 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzsuntory.b03:system/etc/firmware/tzsuntory.b03 \
+    vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzsuntory.flist:system/etc/firmware/tzsuntory.flist \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/tzsuntory.mdt:system/etc/firmware/tzsuntory.mdt \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
     vendor/sony/tianchi_dsds/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
